@@ -11,9 +11,8 @@
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img align="left" alt="Express" src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/><br>
-
-## I’m currently learning:
 <img align="left" alt="Typescript" src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+
+## I’m currently learning:
 <img align="left" alt="GraphQL" src="https://img.shields.io/badge/graphql-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
-<img align="left" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
